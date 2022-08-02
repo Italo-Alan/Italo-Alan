@@ -7,7 +7,7 @@
 - 📍 Nilópolis, Rio de Janeiro.
 - 👨🏽‍💻 Cursando Análise e Desenvolvimento de Sistemas 2/5
 - 📞 Contato: italoalandev@gmail.com
-- Atualmente sou militar do Exército brasileiro, trabalho diretamente na Seção de Informática prestando suporte técnico, porém estou estudando para migrar para área de desenvolvimento.
+- Atualmente sou militar do Exército brasileiro, atuo diretamente na parte de informática prestando suporte técnico, mas aceitando o desafio da mudança e de sair da zona de conforto, resolvi aprender programação para poder migrar para área de desenvolvimento, desde janeiro estou estudando para migrar de carreira.
 <br>
 
 ### Redes Sociais
@@ -34,4 +34,3 @@
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
 <br>
-Transicionando de carreira, resolvi me aventurar na programação e novamente me sentir feliz aprendendo/fazendo algo novo.
