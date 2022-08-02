@@ -5,7 +5,7 @@
 ### Sobre mim
 - 😎 25 anos.
 - 📍 Nilópolis, Rio de Janeiro.
-- 👨🏽‍💻 Cursando Análise e Desenvolvimento de Sistemas 2/5
+- 👨🏽‍💻 2/5 Análise e Desenvolvimento de Sistemas 
 - 📞 Contato: italoalandev@gmail.com
 - Atualmente sou militar do Exército brasileiro, atuo diretamente na parte de informática prestando suporte técnico, mas aceitando o desafio da mudança e de sair da zona de conforto, resolvi aprender programação para poder migrar para área de desenvolvimento, desde janeiro estou estudando para migrar de carreira.
 <br>
