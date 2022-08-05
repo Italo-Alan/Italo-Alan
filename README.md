@@ -1,6 +1,6 @@
-## Olá, me chamo Italo Alan ! 
-### Bem vindo ao meu perfil GitHub 👋
-
+<p align="center">
+  <img src="https://github.com/Italo-Alan/Italo-Alan/raw/main/assets/ezgif.com-gif-maker.gif" alt="Oi, eu sou o Italo Alan">
+</p>
 
 ### Sobre mim
 - 😎 25 anos.
