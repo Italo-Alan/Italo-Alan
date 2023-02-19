@@ -4,7 +4,7 @@
 
 ## 💫 About Me:
 - 🔭 Me chamo Italo, tenho 25 anos, natural do Rio de Janeiro e aspirante a Front-End Jr. Comecei a estudar programação no início de 2022. Atualmente sou militar do Exército brasileiro, atuo diretamente na parte de informática prestando serviços de suporte técnico, mas aceitando o desafio pessoal da mudança de área, resolvi aprender programação para poder migrar de área, desde então estudando para que isso possa se concretizar.<br>
-- 🌱 Hoje, após consolidar alguns conhecimentos em HTML, CSS e JS resolvi partir para novas áreas iniciando os estudos em Angular e TypeScript na parte do Front-End, e na parte do Back aprendendo um pouco sobre banco de dados com OracleDB e PostgreSQL<br>
+- 🌱 Hoje, após consolidar alguns conhecimentos em HTML, CSS e JS resolvi partir para novas áreas iniciando os estudos em Angular e TypeScript na parte do Front-End, e na parte do Back iniciando os estudos em Java. Além disso, aprendendo um pouco sobre banco de dados com OracleDB e PostgreSQL<br>
 - 💬 Contato: italoalandev@gmail.com<br>
 - 👨🏽‍💻 3/5 Análise e Desenvolvimento de Sistemas.
 <br>
