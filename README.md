@@ -4,7 +4,7 @@
 
 ## 💫 About Me:
 - 🔭 Me chamo Italo Alan, tenho 26 anos, natural do Rio de Janeiro e sou Desenvolvedor Front End, voltado para área de desenvolvimento Web, mas ao mesmo tempo estudando para me tornar Dev Full Stack. Comecei a estudar programação no início de 2022. Fui  militar do Exército brasileiro durante 7 anos, atuei diretamente na parte de informática prestando serviços de suporte técnico, mas aceitando o desafio pessoal da mudança de área, resolvi aprender programação para poder migrar de área, desde então estudando para que isso possa se concretizar.<br>
-- 🌱 Hoje, após consolidar alguns conhecimentos em HTML, CSS e JS resolvi partir para novas áreas iniciando os estudos em Angular e TypeScript na parte do Front-End, e na parte do Back iniciando os estudos em Java e Spring Boot. Além disso, aprendendo um pouco sobre SQL.<br>
+- 🌱 Hoje, após consolidar os conhecimentos em HTML, CSS e JS resolvi partir para novas áreas iniciando os estudos em Angular e TypeScript na parte do Front-End, e na parte do Back iniciando os estudos em Java e Spring Boot. Além disso, aprendendo um pouco sobre SQL.<br>
 - 💬 Contato: italoalandev@gmail.com<br>
 - 👨🏽‍💻 3/5 Análise e Desenvolvimento de Sistemas.
 <br>
