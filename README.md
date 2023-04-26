@@ -3,7 +3,7 @@
 </p>
 
 ## 💫 About Me:
-- 🔭 Me chamo Italo Alan, tenho 26 anos, sou natural do Rio de Janeiro e sou Desenvolvedor Full-Stack. Comecei a estudar programação no início de 2022. Fui militar do Exército brasileiro por 7 anos, atuei diretamente na parte de Tecnologia prestando serviços de suporte técnico, mas aceitei o desafio pessoal da mudança de área e resolvi aprender programação para poder migrar de área, desde então estou estudando para que isso possa se concretizar.<br>
+- 🔭 Me chamo Italo Alan, tenho 26 anos, sou natural do Rio de Janeiro e sou Desenvolvedor Full-Stack Júnior. Comecei a estudar programação no início de 2022. Fui militar do Exército brasileiro por 7 anos, atuei diretamente na parte de Tecnologia prestando serviços de suporte técnico, mas aceitei o desafio pessoal da mudança de área e resolvi aprender programação para poder migrar de área, desde então estou estudando para que isso possa se concretizar.<br>
 - 🌱 Hoje, após consolidar os conhecimentos em HTML, CSS e JS resolvi partir para novas áreas iniciando os estudos em Angular e TypeScript na parte do Front-End, e na parte do Back estou estudando Java e Spring Boot. Além disso, aprendendo um pouco sobre SQL e NoSQL.<br>
 - 💬 Contato: italoalandev@gmail.com<br>
 - 👨🏽‍💻 3/5 Análise e Desenvolvimento de Sistemas.
