@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="https://github.com/Italo-Alan/Italo-Alan/raw/main/assets/ezgif.com-gif-maker.gif" alt="Oi, eu sou o Italo Alan">
-</p>
-
 ## 💫 About Me:
-- 🔭 Me chamo Italo Alan, tenho 26 anos, sou natural do Rio de Janeiro e sou Desenvolvedor Full-Stack. Comecei a estudar programação no início de 2022. Fui militar do Exército brasileiro por 7 anos, atuando diretamente na parte de Tecnologia prestando serviços de suporte técnico, mas aceitei o desafio pessoal da mudança de área e resolvi aprender programação para poder migrar de área, desde então estou estudando para que isso possa se concretizar.<br>
-- 🌱 Hoje, após ter consolidado os conhecimentos em HTML, CSS e JS comecei os estudos em Angular e TypeScript na parte do Front-End, e na parte do Back estou estudando Java e Spring Boot. Além disso, aprendendo um pouco sobre SQL e NoSQL.<br>
+- 🔭 Me chamo Italo Alan, tenho 27 anos, sou natural do Rio de Janeiro, morando em São Paulo, atualmente atuo como Analista de Dados Júnior. Comecei a estudar programação e dados no início de 2022. Fui militar do Exército brasileiro por 7 anos, atuando diretamente na parte de Tecnologia prestando serviços de suporte técnico, mas aceitei o desafio pessoal da mudança de área e resolvi migrar de área, desde então trabalho na area e busco cada vez mais adquirir conhecimento sobre Big Data.<br>
+- 🌱 Hoje, trabalhando como Analista de Dados Júnior, mas atuando mais na área de Engenharia de Dados, tratando todo o ciclo de vida do dado no cliente em que atuo.<br>
 - 💬 Contato: italoalandev@gmail.com<br>
-- 👨🏽‍💻 3/5 Análise e Desenvolvimento de Sistemas.
+- 👨🏽‍💻 Formado em Análise e Desenvolvimento de Sistemas.
 <br>
 
 ## 🌐 Socials:
